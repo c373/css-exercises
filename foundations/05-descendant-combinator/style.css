@@ -1,0 +1,37 @@
+* {
+	font-family: Verdana;	
+}
+
+div p {
+	background-color: yellow;
+	color: red;
+	font-size: 20px;
+	text-align: center;
+}
+
+/* OR */
+
+.container .text {
+	background-color: yellow;
+	color: red;
+	font-size: 20px;
+	text-align: center;
+}
+
+/* OR */
+
+.container p {
+	background-color: yellow;
+	color: red;
+	font-size: 20px;
+	text-align: center;
+}
+
+/* OR */
+
+div .text {
+	background-color: yellow;
+	color: red;
+	font-size: 20px;
+	text-align: center;
+}
