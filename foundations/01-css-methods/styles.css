@@ -1,0 +1,11 @@
+* {
+	font-family: sans-serif
+}
+
+.external {
+	background-color: red;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	font-size: 36px;
+}

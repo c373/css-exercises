@@ -1,0 +1,22 @@
+* {
+	font-family: Verdana;
+}
+
+.odd {
+	font-family: Verdana, "Times New Roman", sans-serif;
+	background-color: #F08888;
+}
+
+#second {
+	color: #0000FF;
+	font-size: 36px;
+}
+
+#special {
+	background-color: #A0FFA0;
+	font-weight: 700;
+}
+
+.font24 {
+	font-size: 24px;
+}
